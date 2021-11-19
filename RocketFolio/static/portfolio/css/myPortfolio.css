@@ -1,3 +1,6 @@
+body{
+  zoom:0.7;
+}
 .container_myportfolio {
   display: flex;
   flex-direction: column;

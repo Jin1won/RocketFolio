@@ -1,3 +1,6 @@
+body{
+  zoom:0.7;
+}
 .container_cor_backtesting {
   display: flex;
   flex-direction: column;
